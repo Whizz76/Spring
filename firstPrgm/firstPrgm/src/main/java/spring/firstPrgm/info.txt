@@ -1,0 +1,11 @@
+SpringBoot starter = defines the dependencies needed by us for creating any application
+Like if we want to develop any web application then we need certain dependencies such as spring web,spring-webmvc,
+spring-boot-starter-tomcat(a server), now these dependencies comes predefined within the spring-starter-web
+
+Similarly for unit tests= Spring Boot Starter Test
+Talk to database using JPA= Spring Boot Starter Data JPA
+''''''''''''''' JDBC= '''''''''''''''''''''''''JDBC
+For security= Spring Boot Starter Security
+
+
+Spring boot provides a variety of starter projects
